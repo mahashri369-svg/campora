@@ -1,3 +1,4 @@
+#DEPLOYMENT LINK:https://campora-virid.vercel.app/
 # Attendance Predictor — VibeCraft Round 1 (The Overworld)
 
 An intelligent, timetable-driven college attendance planning dashboard and detention risk engine built for SRM Institute of Science and Technology (Tiruchirappalli Campus).
