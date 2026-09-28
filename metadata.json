@@ -1,0 +1,6 @@
+{
+  "name": "Campora",
+  "description": "Campora: Smart college attendance planning, detention risk predictor, and real-time free classroom floor manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
